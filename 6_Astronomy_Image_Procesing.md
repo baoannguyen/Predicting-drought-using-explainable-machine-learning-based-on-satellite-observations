@@ -14,8 +14,20 @@ Any number of additional HDUs may follow the primary array; these additional HDU
 
 ![Screenshot 2022-03-08 173910](https://user-images.githubusercontent.com/57124909/157223326-24b398a0-c5dc-4e3d-850c-4006f904408a.png)
 
-FITS files are downloaded from:
+FITS data are opened by astropy Python package
 
 # Image Processing
 
+The unprocessed image: 
+
+![Unprocessed_fig](https://user-images.githubusercontent.com/57124909/159757399-1a366e5e-05eb-48a7-80d8-cff3c763b4ab.png)
+
 There are four fundamnetal processing: image representation, image enhacement, image reconstruction
+
+## Image enhancement
+
+1. Histogram equalization
+
+![Hist_equal](https://user-images.githubusercontent.com/57124909/159764843-8d95cd92-9bda-4709-aacd-3fe2c6b8dd26.png)
+
+2. Constrast Enhancement
