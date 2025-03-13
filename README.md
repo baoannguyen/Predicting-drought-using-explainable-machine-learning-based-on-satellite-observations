@@ -19,4 +19,28 @@ Features of DVDC:
 
 ## Models
 The proposed model - Rolling LSTM:
+
 ![rolling](images/rolling_lstm.png)
+
+The typical Encoder-Decoder model:
+
+![ED](images/ED.png)
+
+The Encoder-Decoder with Bahdanau attention mechanism model:
+
+![ED atten](images/ED_atten.png)
+
+The bidirectional deep RNN model with LSTM cells:
+
+![blstm](images/BLSTM.png)
+
+The CNN (right) and baseline (left) model:
+
+![baseline](images/baseline.png)
+
+## Training information
+
+
+
+
+
