@@ -36,11 +36,31 @@ The CNN (right) and baseline (left) model:
 ![baseline](images/baseline.png)
 
 ## Results
-The prediction result on the test data:
+The metrics: Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and the coefficient of determination R2. The lower the better: MSE, RMSE, MAE. The higher the better: R2.
 
+The prediction result on the test data in each future step, from t = 1 month to t = 12 months:
 
+![training result](images/training_results.png)
 
+Red indicates the highest value, while blue indicates the lowest value in each time step t.
 
+The overall performance through all time steps:
+
+![overall](images/overall_result.png)
+
+The proposed method is the best, while the baseline is the worst.
+
+The overview validation and test result of 6 models:
+
+![performance](images/performance.png)
+
+The prediction into 12 feature months by Rolling LSTM:
+
+![prediction](images/prediction.png)
+
+The uncertainty of the corresponding prediction:
+
+![uncertainty](images/uncertainty.png)
 
 
 
