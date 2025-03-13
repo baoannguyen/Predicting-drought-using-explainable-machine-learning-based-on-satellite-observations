@@ -1,5 +1,0 @@
-
-# FITS
-
-FITS stands for "Flexible Image Transport System".
-It is the standard astronomical data format endorsed by both NASA and the IAU. FITS is much more than an image format (such as JPG or GIF) and is primarily designed to store scientific data sets consisting of multi-dimensional arrays (1-D spectra, 2-D images or 3-D data cubes) and 2-dimensional tables containing rows and columns of data. 
