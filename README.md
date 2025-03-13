@@ -4,6 +4,7 @@ The aim of this project is to make predictions on agricultural drought factor - 
 
 ## Data and paper
 Please contact the author: An Bao Nguyen - Master student of Remote Sensing and Geoinformatics at Karlsruhe Institute of Technology (KIT).
+
 Email: baoannguyen99@gmail.com
 
 ## Cite the paper
