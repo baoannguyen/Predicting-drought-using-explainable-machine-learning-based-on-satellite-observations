@@ -19,4 +19,4 @@ Features of DVDC:
 
 ## Models
 The proposed model - Rolling LSTM:
-![rolling](images/rolling lstm.png)
+![rolling](images/rolling_lstm.png)
