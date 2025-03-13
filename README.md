@@ -14,4 +14,7 @@ Features of DVDC:
 
 ![DVDC features](images/DVDC.png)
 
+## Methodology
+![Methodology](images/methodology.png)
+
 ## Models
