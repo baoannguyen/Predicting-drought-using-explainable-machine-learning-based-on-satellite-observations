@@ -9,3 +9,6 @@ The **Drought and Vegetation Data Cube (DVDC)** is a collection of data records 
 - Three of SAFs products: Climate Monitoring SAF (CM SAF), Support to Operational Hydrology and Water Management (H SAF), and Land Surface Analysis SAF (LSA SAF).
 - The Global Precipitation Climatology Centre (GPCC), hosted at Deutscher Wetterdienst (DWD).
 - ERA-5 re-analysis provided by the European Centre of Medium Ranger Weather Forecasting (ECMWF).
+Features of DVDC:
+<img width="437" alt="Image" src="https://github.com/user-attachments/assets/4d582f37-3f83-4f8d-901c-eb1270598ce1" />
+## Models
