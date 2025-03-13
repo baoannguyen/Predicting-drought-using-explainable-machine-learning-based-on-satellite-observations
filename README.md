@@ -18,3 +18,5 @@ Features of DVDC:
 ![Methodology](images/methodology.png)
 
 ## Models
+The proposed model - Rolling LSTM:
+![rolling](images/rolling lstm.png)
